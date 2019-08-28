@@ -4,14 +4,14 @@
 }
 
 #octocat {
-  display: block;
-  width:384px;
+  display: Italic;
+  width:500px;
   margin: 50px auto;
 }
 
 p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  display: Italic;
+  width: 200px;
+  margin: 30px auto;
+  font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
